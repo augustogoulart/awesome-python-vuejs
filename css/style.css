@@ -10,10 +10,6 @@ p{
 	line-height: 20px;
 }
 
-img{
-	display: block;
-	max-width: 100%;
-}
 
 .btn{
 	padding: 10px 30px;
@@ -25,10 +21,6 @@ img{
 	transition: all .5s ease;
 }
 
-.btn:hover{
-	color: #FFF;
-}
-
 /* Header */
 .titulo{
 	padding-left: 0px;
@@ -36,6 +28,8 @@ img{
 
 .btn.titulo{
 	color: #41b883;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 20px;
 }
 
 .header{
@@ -65,20 +59,6 @@ img{
 	line-height: 20px;
 	padding: 10px 0;
 	transition: all .3s ease;
-}
-
-.header_menu ul li a:hover {
-	color: #41b883;
-}
-
-.header .btn:hover{
-	border-color: #FFF;
-}
-
-.header .btn p{
-	font-weight: bold;
-	font-size: 18px;
-	margin: 0 auto;
 }
 
 .header_menu ul li a.menu_ativo{
