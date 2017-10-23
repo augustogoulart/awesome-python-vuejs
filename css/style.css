@@ -21,6 +21,11 @@ p{
 	transition: all .5s ease;
 }
 
+
+.btn:hover{
+	color: #FFF;
+}
+
 /* Header */
 .titulo{
 	padding-left: 0px;
