@@ -4,7 +4,7 @@
 * Some material may contain information about other frameworks than VueJS, its OK, a LOT of useful information is framework agnostic. 
 
 <p align="center">
-  <img src='https://github.com/augustogoulart/awesome-django-vuejs/blob/gh-pages/midia/teste1.jpg'>
+  <img src='https://github.com/augustogoulart/awesome-django-vuejs/blob/gh-pages/midia/pythonvue.jpg'>
 </p>
 
 # Videos
