@@ -16,3 +16,15 @@
 [Be beautiful front and back - Vue.JS with Django - Vue.js Paris Meetup #2](https://www.youtube.com/watch?v=NCoIC7gMFsI)
 
 [More Sanic/Python Fun. Submitting a Form via Ajax Post Request with Vuejs](https://www.youtube.com/watch?v=6FXG3ssw5Wo)
+
+[DjangoCon US 2016 - Django and React: Perfect Together by Jack McCloy](https://www.youtube.com/watch?v=zYHv6U86X0Y)
+
+# Articles
+
+[Reconciling Django Templates with React Components](https://hackernoon.com/reconciling-djangos-mvc-templates-with-react-components-3aa986cf510a)
+
+[How to Start a Django and VueJS Project painlessly with Webpack support](https://scotch.io/@timtech4u/how-to-start-a-django-and-vuejs-project-painlessly-with-webpack-support)
+
+[Build an App with VueJS and Django Part One](https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one)
+
+[Django + webpack + Vue.js - setting up a new project that's easy to develop and deploy](https://ariera.github.io/2017/09/26/django-webpack-vue-js-setting-up-a-new-project-that-s-easy-to-develop-and-deploy-part-1.html)
